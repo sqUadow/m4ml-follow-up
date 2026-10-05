@@ -1,0 +1,25 @@
+## Math to review
+
+Week 7: Gaussian mixture model with EM
+
+- 12.2.1 [Product Notation](https://www.mathacademy.com/topics/3081?courseId=145)
+- 12.2.2 [Logarithmic Differentiation](https://www.mathacademy.com/topics/294?courseId=145)
+- 12.2.3 [Likelihood Functions for Discrete Probability Distributions](https://www.mathacademy.com/topics/3603?courseId=145)
+- 12.2.4 [Log-Likelihood Functions for Discrete Probability Distributions](https://www.mathacademy.com/topics/4124?courseId=145)
+- 12.2.5 [Likelihood Functions for Continuous Probability Distributions](https://www.mathacademy.com/topics/4123?courseId=145)
+- 12.2.6 [Log-Likelihood Functions for Continuous Probability Distributions](https://www.mathacademy.com/topics/4125?courseId=145)
+- 12.2.7 [Maximum Likelihood Estimation](https://www.mathacademy.com/topics/3077?courseId=145)
+- 11.5.1 [Normal Approximations of Binomial Distributions](https://www.mathacademy.com/topics/1633?courseId=145)
+- 11.5.2 [Combining Two Normally Distributed Random Variables](https://www.mathacademy.com/topics/3009?courseId=145)
+- 11.5.3 [Combining Multiple Normally Distributed Random Variables](https://www.mathacademy.com/topics/3638?courseId=145)
+- 11.5.4 [I.I.D Normal Random Variables](https://www.mathacademy.com/topics/3859?courseId=145)
+- 11.5.5 [The Bivariate Normal Distribution](https://www.mathacademy.com/topics/918?courseId=145)
+- 10.6.1 [The Continuous Uniform Distribution](https://www.mathacademy.com/topics/791?courseId=145)
+- 10.6.2 [Mean and Variance of the Continuous Uniform Distribution](https://www.mathacademy.com/topics/3277?courseId=145)
+- 10.6.3 [Modeling With Continuous Uniform Distributions](https://www.mathacademy.com/topics/2990?courseId=145)
+- 10.6.4 [The Gamma Function](https://www.mathacademy.com/topics/3289?courseId=145)
+- 10.6.5 [The Chi-Square Distribution](https://www.mathacademy.com/topics/3023?courseId=145)
+- 10.6.6 [The Student's T-Distribution](https://www.mathacademy.com/topics/3069?courseId=145)
+- 10.6.7 [The Exponential Distribution](https://www.mathacademy.com/topics/3074?courseId=145)
+- 10.2.6 [Simulating Random Observations](https://www.mathacademy.com/topics/3867?courseId=145)
+- 12.1.6 [The Central Limit Theorem](https://www.mathacademy.com/topics/359?courseId=145)
