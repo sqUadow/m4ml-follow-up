@@ -22,3 +22,5 @@ Week 2: Logistic regression and MLE
 - 9.4.4 [The Derivative of a Multivariable Function](https://www.mathacademy.com/topics/4169?courseId=145)
 - 9.4.5 [The Second Derivative of a Multivariable Function](https://www.mathacademy.com/topics/2824?courseId=145)
 - 9.4.6 [Second-Degree Taylor Polynomials of Multivariable Functions](https://www.mathacademy.com/topics/4171?courseId=145)
+
+Project for this week: [weeks/week02-logistic-regression](../weeks/week02-logistic-regression/README.md) · [code outline](../weeks/week02-logistic-regression/code-outline.md)

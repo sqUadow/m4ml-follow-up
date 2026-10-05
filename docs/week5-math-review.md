@@ -14,3 +14,5 @@ Week 5: Autograd and a neural network
 - 9.5.3 [Vector Gradients](https://www.mathacademy.com/topics/5536?courseId=145)
 - 9.5.4 [Further Vector Gradients](https://www.mathacademy.com/topics/6007?courseId=145)
 - 9.5.5 [Matrix Gradients](https://www.mathacademy.com/topics/5869?courseId=145)
+
+Project for this week: [weeks/week05-autograd-mlp](../weeks/week05-autograd-mlp/README.md) · [code outline](../weeks/week05-autograd-mlp/code-outline.md)

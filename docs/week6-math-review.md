@@ -11,3 +11,5 @@ Week 6: Optimization
 - 7.1.5 [Constrained Optimization of Quadratic Forms](https://www.mathacademy.com/topics/3171?courseId=145)
 - 7.1.6 [Constrained Optimization of Quadratic Forms: Determining Where Extrema are Attained](https://www.mathacademy.com/topics/4238?courseId=145)
 - 9.2.2 [Level Curves](https://www.mathacademy.com/topics/1900?courseId=145)
+
+Project for this week: [weeks/week06-optimization](../weeks/week06-optimization/README.md) · [code outline](../weeks/week06-optimization/code-outline.md)

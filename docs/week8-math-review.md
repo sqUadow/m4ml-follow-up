@@ -16,3 +16,5 @@ Week 8: Capstone: matrix-factorization recommender
 - 9.8.4 [Lagrange Multipliers With One Constraint](https://www.mathacademy.com/topics/1948?courseId=145)
 - 9.8.5 [Lagrange Multipliers With Multiple Constraints](https://www.mathacademy.com/topics/3380?courseId=145)
 - 9.8.6 [Optimizing Multivariable Functions Using Lagrange Multipliers](https://www.mathacademy.com/topics/4164?courseId=145)
+
+Project for this week: [weeks/week08-recommender](../weeks/week08-recommender/README.md) · [code outline](../weeks/week08-recommender/code-outline.md)
