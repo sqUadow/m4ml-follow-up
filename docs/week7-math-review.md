@@ -23,3 +23,5 @@ Week 7: Gaussian mixture model with EM
 - 10.6.7 [The Exponential Distribution](https://www.mathacademy.com/topics/3074?courseId=145)
 - 10.2.6 [Simulating Random Observations](https://www.mathacademy.com/topics/3867?courseId=145)
 - 12.1.6 [The Central Limit Theorem](https://www.mathacademy.com/topics/359?courseId=145)
+
+Project for this week: [weeks/week07-gmm-em](../weeks/week07-gmm-em/README.md) · [code outline](../weeks/week07-gmm-em/code-outline.md)

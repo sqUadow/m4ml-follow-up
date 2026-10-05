@@ -14,3 +14,5 @@ Week 1: Least squares and linear regression
 - 9.5.5 [Matrix Gradients](https://www.mathacademy.com/topics/5869?courseId=145)
 - 12.3.5 [Confidence Intervals for Linear Regression Slope Parameters](https://www.mathacademy.com/topics/3322?courseId=145)
 - 12.3.6 [Confidence Intervals for Linear Regression Intercept Parameters](https://www.mathacademy.com/topics/4116?courseId=145)
+
+Project for this week: [weeks/week01-linear-regression](../weeks/week01-linear-regression/README.md) · [code outline](../weeks/week01-linear-regression/code-outline.md)

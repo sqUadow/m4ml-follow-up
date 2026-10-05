@@ -12,3 +12,5 @@ Week 3: PCA and SVD
 - 7.2.4 [Singular Value Decomposition of 2x2 Matrices With Zero or Repeated Eigenvalues](https://www.mathacademy.com/topics/3278?courseId=145)
 - 7.2.5 [Singular Value Decomposition of Larger Matrices](https://www.mathacademy.com/topics/3133?courseId=145)
 - 7.2.6 [Singular Value Decomposition and the Pseudoinverse Matrix](https://www.mathacademy.com/topics/3134?courseId=145)
+
+Project for this week: [weeks/week03-pca-svd](../weeks/week03-pca-svd/README.md) · [code outline](../weeks/week03-pca-svd/code-outline.md)

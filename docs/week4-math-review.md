@@ -14,3 +14,5 @@ Week 4: Probabilistic classifiers
 - 11.5.3 [Combining Multiple Normally Distributed Random Variables](https://www.mathacademy.com/topics/3638?courseId=145)
 - 11.5.4 [I.I.D Normal Random Variables](https://www.mathacademy.com/topics/3859?courseId=145)
 - 11.5.5 [The Bivariate Normal Distribution](https://www.mathacademy.com/topics/918?courseId=145)
+
+Project for this week: [weeks/week04-probabilistic-classifiers](../weeks/week04-probabilistic-classifiers/README.md) · [code outline](../weeks/week04-probabilistic-classifiers/code-outline.md)

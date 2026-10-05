@@ -1,0 +1,15 @@
+# Core (weeks 1-8)
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+pillow>=10.0            # needed by load_sample_image (week 3)
+pandas>=2.1
+scikit-learn>=1.5
+statsmodels>=0.14
+jupyterlab>=4.0
+
+# Week 7 convenience (Old Faithful dataset loader); optional
+seaborn>=0.13
+
+# Week 5 onward. Large download; see README for CPU-only install options.
+torch>=2.3
